@@ -1,2 +1,2 @@
 # test01
-test 학습 생성
+test01 생성
